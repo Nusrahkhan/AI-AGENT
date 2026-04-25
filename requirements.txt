@@ -1,0 +1,18 @@
+# ─── Vector Store & Embeddings (Phase 1) ───────────────────────────────────
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+numpy==1.26.4
+ 
+# ─── LLM & Agent Framework (Phase 2 & 3) ───────────────────────────────────
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-groq==0.1.9
+langgraph==0.2.28
+ 
+# ─── Structured Outputs & Validation ────────────────────────────────────────
+pydantic==2.8.2
+ 
+# ─── Environment Management ─────────────────────────────────────────────────
+python-dotenv==1.0.1
+
